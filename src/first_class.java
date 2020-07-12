@@ -8,6 +8,7 @@ public class first_class {
 		second_class.test();
 		third_class.display();
 		forth_class.test1();
+		fifth_file.test2();
 	}
 
 }
