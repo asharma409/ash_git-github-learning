@@ -5,6 +5,7 @@ public class first_class {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		second_class.test();
+		third_class.display();
 	}
 
 }
